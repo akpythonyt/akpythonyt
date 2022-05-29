@@ -7,3 +7,4 @@
 - ⚡ Fun fact: Don't disturb me while sleeping😉
 -->
 <img src ='https://github-readme-stats.vercel.app/api?username=akpythonyt&show_icons=true&theme=dark'>
+<img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=akpythonyt&layout=compact&theme=dark'>
