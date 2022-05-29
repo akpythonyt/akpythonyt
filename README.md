@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**akpythonyt/akpythonyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as software engineer in Datascience
 - 🌱 I’m currently learning Advanced Machine learning integrations
 - 💬 Ask me about python statistics Machine learning..etc
