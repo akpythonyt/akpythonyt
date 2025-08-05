@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working as software engineer in Datascience
-- 🌱 I’m currently learning Advanced Machine learning integrations
-- 💬 Ask me about python statistics Machine learning..etc
+- 🔭 I’m currently working as Data Engineer
+- 🌱 I’m currently learning Advanced Azure Integrations on Big Data
+- 💬 Ask me about Big data
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Don't disturb me while sleeping😉
 <img src='https://activity-graph.herokuapp.com/graph?username=akpythonyt&theme=react-dark'>
